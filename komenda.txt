@@ -1,0 +1,25 @@
+
+C:\kodlilla\zadanie 3.3\learning-git-2\index.html
+   3:2    error  <html> element must have <body> as content                 element-required-content
+  10:10   error  <body> element is not permitted as content under <head>    element-permitted-content
+  10:10   error  <body> element requires a <html> element as parent         element-permitted-parent
+  13:178  error  Attribute "frameborder" is deprecated on <iframe> element  no-deprecated-attr
+  14:1    error  Trailing whitespace                                        no-trailing-whitespace
+  29:1    error  Trailing whitespace                                        no-trailing-whitespace
+  38:29   error  Trailing whitespace                                        no-trailing-whitespace
+  39:63   error  Trailing whitespace                                        no-trailing-whitespace
+  52:1    error  Trailing whitespace                                        no-trailing-whitespace
+  61:61   error  Trailing whitespace                                        no-trailing-whitespace
+  76:1    error  Trailing whitespace                                        no-trailing-whitespace
+  77:27   error  Trailing whitespace                                        no-trailing-whitespace
+  85:1    error  Trailing whitespace                                        no-trailing-whitespace
+
+✖ 13 problems (13 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/element-required-content.html
+  https://html-validate.org/rules/element-permitted-content.html
+  https://html-validate.org/rules/element-permitted-parent.html
+  https://html-validate.org/rules/no-deprecated-attr.html
+  https://html-validate.org/rules/no-trailing-whitespace.html
+
